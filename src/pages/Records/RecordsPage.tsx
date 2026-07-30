@@ -1,15 +1,41 @@
+import ContentCard from "../../components/common/ContentCard";
 import PageIntro from "../../components/common/PageIntro";
+import SectionHeading from "../../components/common/SectionHeading";
+
+const recordCategories = [
+  {
+    number: "01",
+    title: "Career Points",
+    description: "The highest cumulative points totals in Cyder Cup history.",
+  },
+  {
+    number: "02",
+    title: "Singles Record",
+    description: "Career performance in individual singles match play.",
+  },
+  {
+    number: "03",
+    title: "Four-Ball Record",
+    description: "Career performance in net four-ball team matches.",
+  },
+  {
+    number: "04",
+    title: "Scramble Record",
+    description: "Career performance in the opening team scramble.",
+  },
+  {
+    number: "05",
+    title: "Head-to-Head",
+    description: "Historical results between individual singles opponents.",
+  },
+  {
+    number: "06",
+    title: "Longest Unbeaten Streak",
+    description: "The longest stretches without a match-play defeat.",
+  },
+];
 
 export default function RecordsPage() {
-  const recordCategories = [
-    "Career Points",
-    "Singles Record",
-    "Four-Ball Record",
-    "Scramble Record",
-    "Head-to-Head",
-    "Longest Unbeaten Streak",
-  ];
-
   return (
     <>
       <PageIntro
@@ -19,19 +45,31 @@ export default function RecordsPage() {
       />
 
       <section className="mx-auto max-w-7xl px-5 py-16 sm:px-8 lg:px-10">
-        <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
+        <SectionHeading
+          eyebrow="Career Leaders"
+          title="The records that define the competition"
+          description="Official values will be calculated from the Cyder Cup historical databook."
+        />
+
+        <div className="mt-10 grid gap-5 sm:grid-cols-2 lg:grid-cols-3">
           {recordCategories.map((category) => (
-            <article
-              key={category}
-              className="min-h-40 rounded-sm border border-white/10 bg-white/[0.03] p-6"
+            <ContentCard
+              key={category.title}
+              hover
+              className="min-h-56 p-6"
             >
-              <p className="text-[10px] font-bold uppercase tracking-[0.24em] text-amber-300">
-                Record Category
+              <p className="text-xs font-bold tracking-[0.25em] text-amber-300">
+                {category.number}
               </p>
+
               <h2 className="mt-5 font-serif text-2xl text-white">
-                {category}
+                {category.title}
               </h2>
-            </article>
+
+              <p className="mt-4 text-sm leading-6 text-slate-400">
+                {category.description}
+              </p>
+            </ContentCard>
           ))}
         </div>
       </section>
