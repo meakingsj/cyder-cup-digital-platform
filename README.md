@@ -1,32 +1,41 @@
-# React + TypeScript + Vite
+# Cyder Cup Digital Platform
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+React, Vite, TypeScript and Tailwind website for the Cyder Cup.
 
-Currently, two official plugins are available:
+## Local development
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
-
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the Oxlint configuration
-
-If you are developing a production application, we recommend enabling type-aware lint rules by installing `oxlint-tsgolint` and editing `.oxlintrc.json`:
-
-```json
-{
-  "$schema": "./node_modules/oxlint/configuration_schema.json",
-  "plugins": ["react", "typescript", "oxc"],
-  "options": {
-    "typeAware": true
-  },
-  "rules": {
-    "react/rules-of-hooks": "error",
-    "react/only-export-components": ["warn", { "allowConstantExport": true }]
-  }
-}
+```bash
+npm install
+npm run dev
 ```
 
-See the [Oxlint rules documentation](https://oxc.rs/docs/guide/usage/linter/rules) for the full list of rules and categories.
+## Refresh website data from the master databook
+
+The workbook is stored at:
+
+```text
+data/Cyder Cup Master Databook.xlsx
+```
+
+After saving workbook changes, run:
+
+```bash
+npm run build-data
+```
+
+This regenerates the JSON feeds in `src/data/generated`. A production build runs the data export automatically:
+
+```bash
+npm run build
+```
+
+The export script uses the Python standard library and requires Python 3 to be available as `python` on Windows or `python3` on macOS/Linux. If Windows does not recognize `python`, replace `python` with `py` in the `build-data` script in `package.json`.
+
+## Included editorial and media assets
+
+- Labeled player profile photographs are stored in `public/player-profiles` and are linked by the workbook `photo_key` field.
+- Original prior-year written recaps are stored as generated website content in `src/data/generated/history.json`.
+- Selected, web-optimized historical gallery photographs are stored in `public/history/<year>`.
+- Predator Ridge course photographs are stored in `public/course`.
+
+The History page currently includes the completed 2019, 2020, 2021, 2022 and 2025 tournaments. The original recap wording is preserved from the source documents.

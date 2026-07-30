@@ -46,9 +46,9 @@ export default function HeroSection() {
           </h1>
 
           <p className="mt-8 max-w-2xl text-base leading-7 text-slate-300 sm:text-lg">
-            Eight players. Two teams. Three sessions. The annual battle
-            between Team Navy and Team Red continues at Predator Ridge in
-            British Columbia.
+            Eight players. Two teams. One weekend. The annual battle
+            between Team Navy and Team Red returns August 21st, 20226
+            at Predator Ridge Golf Club in Vernon, B.C.
           </p>
 
           <div className="mt-10 flex flex-col gap-3 sm:flex-row">
@@ -152,7 +152,7 @@ export default function HeroSection() {
         <div className="mx-auto grid max-w-7xl divide-y divide-white/10 px-5 sm:grid-cols-3 sm:divide-x sm:divide-y-0 sm:px-8 lg:px-10">
           <div className="py-5 sm:px-6">
             <p className="text-[10px] font-semibold uppercase tracking-[0.24em] text-slate-500">
-              Host Venue
+              2026 Host Venue
             </p>
 
             <p className="mt-1 font-serif text-lg text-white">

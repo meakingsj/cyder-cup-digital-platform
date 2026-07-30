@@ -1,7 +1,27 @@
-import ContentCard from "../../components/common/ContentCard";
 import PageIntro from "../../components/common/PageIntro";
 import SectionHeading from "../../components/common/SectionHeading";
-import TeamPanel from "../../components/common/TeamPanel";
+import TeamCrest from "../../components/common/TeamCrest";
+import PlayerCard from "../../components/players/PlayerCard";
+import { getPlayersByTeam } from "../../data";
+import type { TeamId } from "../../types";
+
+const teamDetails: Record<
+  TeamId,
+  { eyebrow: string; title: string; description: string }
+> = {
+  navy: {
+    eyebrow: "Defending Champions",
+    title: "Team Navy",
+    description:
+      "Three-time champions and the holders of the Cyder Cup entering Predator Ridge.",
+  },
+  red: {
+    eyebrow: "The Challengers",
+    title: "Team Red",
+    description:
+      "Two-time champions looking to reclaim the Cup in Vernon in 2026.",
+  },
+};
 
 export default function PlayersPage() {
   return (
@@ -9,41 +29,55 @@ export default function PlayersPage() {
       <PageIntro
         eyebrow="The Competitors"
         title="Player Directory"
-        description="Career profiles, team history, match records, points earned and individual Cyder Cup achievements."
+        description="Meet the eight players competing for the Cyder Cup, with profiles and career records powered directly by the master databook."
       />
 
-      <section className="mx-auto max-w-7xl px-5 py-16 sm:px-8 lg:px-10">
+      <main className="mx-auto max-w-7xl px-5 py-16 sm:px-8 lg:px-10">
         <SectionHeading
-          eyebrow="Current Players"
-          title="Eight players. Two teams."
-          description="The official player photographs, biographies and career records will populate this directory."
+          eyebrow="2026 Field"
+          title="Eight players. Two teams. One Cup."
+          description="Career records shown below include every completed Cyder Cup from 2019 through 2025."
         />
 
-        <div className="mt-10 grid gap-5 lg:grid-cols-2">
-          <TeamPanel
-            team="navy"
-            title="Team Navy Roster"
-            description="Player profiles and career records will appear beneath the Team Navy identity."
-          />
+        <div className="mt-14 space-y-20">
+          <TeamRoster team="navy" />
+          <TeamRoster team="red" />
+        </div>
+      </main>
+    </>
+  );
+}
 
-          <TeamPanel
-            team="red"
-            title="Team Red Roster"
-            description="Player profiles and career records will appear beneath the Team Red identity."
+function TeamRoster({ team }: { team: TeamId }) {
+  const details = teamDetails[team];
+  const players = getPlayersByTeam(team);
+
+  return (
+    <section>
+      <div className="mb-7 flex items-center gap-5 border-b border-white/10 pb-6">
+        <div className="flex h-20 w-20 shrink-0 items-center justify-center rounded-full border border-white/10 bg-[#071827] p-2.5">
+          <TeamCrest
+            team={team}
+            className="flex h-full w-full items-center justify-center"
+            imageClassName="max-h-full max-w-full object-contain"
           />
         </div>
-
-        <ContentCard className="mt-10 px-6 py-16 text-center">
-          <p className="font-serif text-3xl text-white">
-            Player data integration is next.
+        <div>
+          <p className="text-[10px] font-bold uppercase tracking-[0.3em] text-amber-300">
+            {details.eyebrow}
           </p>
-
-          <p className="mx-auto mt-4 max-w-xl text-sm leading-6 text-slate-400">
-            The uploaded biographies, photographs and historical records will
-            be connected to reusable player profile cards.
+          <h2 className="mt-2 font-serif text-4xl text-white">{details.title}</h2>
+          <p className="mt-2 max-w-2xl text-sm leading-6 text-slate-400">
+            {details.description}
           </p>
-        </ContentCard>
-      </section>
-    </>
+        </div>
+      </div>
+
+      <div className="grid gap-6 md:grid-cols-2 xl:grid-cols-4">
+        {players.map((player) => (
+          <PlayerCard key={player.id} player={player} />
+        ))}
+      </div>
+    </section>
   );
 }

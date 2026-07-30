@@ -10,4 +10,4 @@ export {
   getPlayerById,
   getPlayersByTeam,
   getPlayerFullName,
-} from "./players";
+} from "./player";
