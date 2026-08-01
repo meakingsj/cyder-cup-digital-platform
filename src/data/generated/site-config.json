@@ -7,5 +7,7 @@
   "red_team_id": "red",
   "points_to_win": 15.5,
   "total_points_available": 30,
-  "data_version": "3.0"
+  "data_version": "3.0",
+  "workbook_architecture_version": "1.0",
+  "historical_match_feed": "Feed - Match History"
 }

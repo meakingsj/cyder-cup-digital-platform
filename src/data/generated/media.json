@@ -1,0 +1,26 @@
+[
+  {
+    "media_id": "profile-red-sam",
+    "asset_type": "photo",
+    "scope_type": "player",
+    "scope_id": "red-sam",
+    "year": null,
+    "file_key": "red-sam",
+    "role": "profile",
+    "caption": "Official portrait key; asset remains outside workbook",
+    "sort_order": 10,
+    "active": true
+  },
+  {
+    "media_id": "profile-navy-jj",
+    "asset_type": "photo",
+    "scope_type": "player",
+    "scope_id": "navy-jj",
+    "year": null,
+    "file_key": "navy-jj",
+    "role": "profile",
+    "caption": "Official portrait key; asset remains outside workbook",
+    "sort_order": 10,
+    "active": true
+  }
+]

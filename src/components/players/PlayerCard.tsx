@@ -1,3 +1,4 @@
+import { Link } from "react-router-dom";
 import type { Player } from "../../types";
 
 interface PlayerCardProps {
@@ -19,7 +20,7 @@ export default function PlayerCard({ player }: PlayerCardProps) {
   const isNavy = player.teamId === "navy";
 
   return (
-    <article className="group overflow-hidden rounded-sm border border-white/10 bg-[#081b2c] shadow-[0_18px_55px_rgba(0,0,0,0.22)] transition duration-300 hover:-translate-y-1 hover:border-white/20">
+    <Link to={`/players/${player.id}`} className="group overflow-hidden rounded-sm border border-white/10 bg-[#081b2c] shadow-[0_18px_55px_rgba(0,0,0,0.22)] transition duration-300 hover:-translate-y-1 hover:border-white/20">
       <div
         className={`relative flex min-h-52 items-end overflow-hidden p-6 ${
           isNavy
@@ -79,7 +80,7 @@ export default function PlayerCard({ player }: PlayerCardProps) {
           </p>
         )}
       </div>
-    </article>
+    </Link>
   );
 }
 

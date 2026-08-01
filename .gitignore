@@ -22,3 +22,7 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Local project backups
+Phase 6 installed.zip
+data/Cyder Cup Master Databook - Pre Phase 8 Backup.xlsx

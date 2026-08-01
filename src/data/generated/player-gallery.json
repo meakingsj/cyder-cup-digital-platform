@@ -1,0 +1,1417 @@
+[
+  {
+    "year": 2019,
+    "path": "/history/2019/2019_001__george__drinking.jpg",
+    "players": [
+      "navy-george"
+    ],
+    "tags": [
+      "drinking"
+    ],
+    "teamTags": []
+  },
+  {
+    "year": 2019,
+    "path": "/history/2019/2019_002__kevin_golfing.jpg",
+    "players": [
+      "red-kevin"
+    ],
+    "tags": [],
+    "teamTags": []
+  },
+  {
+    "year": 2019,
+    "path": "/history/2019/2019_003__steve_eric_george_jj_sean_kevin_dylan_sam__group_picture.jpg",
+    "players": [
+      "navy-steven",
+      "navy-eric",
+      "navy-george",
+      "navy-jj",
+      "red-sean",
+      "red-kevin",
+      "red-dylan",
+      "red-sam"
+    ],
+    "tags": [
+      "group",
+      "picture"
+    ],
+    "teamTags": []
+  },
+  {
+    "year": 2019,
+    "path": "/history/2019/2019_004__teamnavy_teamred__lunch.jpg",
+    "players": [],
+    "tags": [
+      "lunch"
+    ],
+    "teamTags": [
+      "teamnavy",
+      "teamred"
+    ]
+  },
+  {
+    "year": 2019,
+    "path": "/history/2019/2019_005__george__drinking.jpg",
+    "players": [
+      "navy-george"
+    ],
+    "tags": [
+      "drinking"
+    ],
+    "teamTags": []
+  },
+  {
+    "year": 2019,
+    "path": "/history/2019/2019_006__eric__practicing.jpg",
+    "players": [
+      "navy-eric"
+    ],
+    "tags": [
+      "practicing"
+    ],
+    "teamTags": []
+  },
+  {
+    "year": 2019,
+    "path": "/history/2019/2019_007__dylan__practicing.jpg",
+    "players": [
+      "red-dylan"
+    ],
+    "tags": [
+      "practicing"
+    ],
+    "teamTags": []
+  },
+  {
+    "year": 2019,
+    "path": "/history/2019/2019_008__george__golfing.jpg",
+    "players": [
+      "navy-george"
+    ],
+    "tags": [
+      "golfing"
+    ],
+    "teamTags": []
+  },
+  {
+    "year": 2019,
+    "path": "/history/2019/2019_009__steve_jj_eric_george__practicing.jpg",
+    "players": [
+      "navy-steven",
+      "navy-jj",
+      "navy-eric",
+      "navy-george"
+    ],
+    "tags": [
+      "practicing"
+    ],
+    "teamTags": []
+  },
+  {
+    "year": 2019,
+    "path": "/history/2019/2019_010__steve_jj_eric_george__group_photo.jpg",
+    "players": [
+      "navy-steven",
+      "navy-jj",
+      "navy-eric",
+      "navy-george"
+    ],
+    "tags": [
+      "group",
+      "photo"
+    ],
+    "teamTags": []
+  },
+  {
+    "year": 2019,
+    "path": "/history/2019/2019_011__dylan_sam_kevin_sean__group_photo.jpg",
+    "players": [
+      "red-dylan",
+      "red-sam",
+      "red-kevin",
+      "red-sean"
+    ],
+    "tags": [
+      "group",
+      "photo"
+    ],
+    "teamTags": []
+  },
+  {
+    "year": 2019,
+    "path": "/history/2019/2019_012__jj__golfing.jpg",
+    "players": [
+      "navy-jj"
+    ],
+    "tags": [
+      "golfing"
+    ],
+    "teamTags": []
+  },
+  {
+    "year": 2019,
+    "path": "/history/2019/2019_013__jj__golfing.jpg",
+    "players": [
+      "navy-jj"
+    ],
+    "tags": [
+      "golfing"
+    ],
+    "teamTags": []
+  },
+  {
+    "year": 2019,
+    "path": "/history/2019/2019_014__eric__practicing.jpg",
+    "players": [
+      "navy-eric"
+    ],
+    "tags": [
+      "practicing"
+    ],
+    "teamTags": []
+  },
+  {
+    "year": 2019,
+    "path": "/history/2019/2019_015__steve__practicing.jpg",
+    "players": [
+      "navy-steven"
+    ],
+    "tags": [
+      "practicing"
+    ],
+    "teamTags": []
+  },
+  {
+    "year": 2019,
+    "path": "/history/2019/2019_016__sean__golfing.jpg",
+    "players": [
+      "red-sean"
+    ],
+    "tags": [
+      "golfing"
+    ],
+    "teamTags": []
+  },
+  {
+    "year": 2019,
+    "path": "/history/2019/2019_017__jj__drinking.jpg",
+    "players": [
+      "navy-jj"
+    ],
+    "tags": [
+      "drinking"
+    ],
+    "teamTags": []
+  },
+  {
+    "year": 2019,
+    "path": "/history/2019/2019_018__steve__golfing.jpg",
+    "players": [
+      "navy-steven"
+    ],
+    "tags": [
+      "golfing"
+    ],
+    "teamTags": []
+  },
+  {
+    "year": 2019,
+    "path": "/history/2019/2019_019__sean__golfing.jpg",
+    "players": [
+      "red-sean"
+    ],
+    "tags": [
+      "golfing"
+    ],
+    "teamTags": []
+  },
+  {
+    "year": 2019,
+    "path": "/history/2019/2019_020__kevin__drinking.jpg",
+    "players": [
+      "red-kevin"
+    ],
+    "tags": [
+      "drinking"
+    ],
+    "teamTags": []
+  },
+  {
+    "year": 2019,
+    "path": "/history/2019/2019_021__eric__golfing.jpg",
+    "players": [
+      "navy-eric"
+    ],
+    "tags": [
+      "golfing"
+    ],
+    "teamTags": []
+  },
+  {
+    "year": 2019,
+    "path": "/history/2019/2019_022__kevin__golfing.jpg",
+    "players": [
+      "red-kevin"
+    ],
+    "tags": [
+      "golfing"
+    ],
+    "teamTags": []
+  },
+  {
+    "year": 2019,
+    "path": "/history/2019/2019_023__jj__golfing.jpg",
+    "players": [
+      "navy-jj"
+    ],
+    "tags": [
+      "golfing"
+    ],
+    "teamTags": []
+  },
+  {
+    "year": 2019,
+    "path": "/history/2019/2019_024__sam__golfing.jpg",
+    "players": [
+      "red-sam"
+    ],
+    "tags": [
+      "golfing"
+    ],
+    "teamTags": []
+  },
+  {
+    "year": 2019,
+    "path": "/history/2019/2019_025__sean__golfing.jpg",
+    "players": [
+      "red-sean"
+    ],
+    "tags": [
+      "golfing"
+    ],
+    "teamTags": []
+  },
+  {
+    "year": 2019,
+    "path": "/history/2019/2019_026__sean__golfing.jpg",
+    "players": [
+      "red-sean"
+    ],
+    "tags": [
+      "golfing"
+    ],
+    "teamTags": []
+  },
+  {
+    "year": 2019,
+    "path": "/history/2019/2019_027__steve__golfing.jpg",
+    "players": [
+      "navy-steven"
+    ],
+    "tags": [
+      "golfing"
+    ],
+    "teamTags": []
+  },
+  {
+    "year": 2019,
+    "path": "/history/2019/2019_028__sam__golfing.png",
+    "players": [
+      "red-sam"
+    ],
+    "tags": [
+      "golfing"
+    ],
+    "teamTags": []
+  },
+  {
+    "year": 2019,
+    "path": "/history/2019/2019_029__jj__golfing.jpg",
+    "players": [
+      "navy-jj"
+    ],
+    "tags": [
+      "golfing"
+    ],
+    "teamTags": []
+  },
+  {
+    "year": 2019,
+    "path": "/history/2019/2019_030__tobiano__scenic.jpg",
+    "players": [],
+    "tags": [
+      "scenic"
+    ],
+    "teamTags": []
+  },
+  {
+    "year": 2019,
+    "path": "/history/2019/2019_031__george_kevin__celebrating.jpg",
+    "players": [
+      "navy-george",
+      "red-kevin"
+    ],
+    "tags": [
+      "celebrating"
+    ],
+    "teamTags": []
+  },
+  {
+    "year": 2019,
+    "path": "/history/2019/2019_032__sam_steve_kevin_sean__partying.jpg",
+    "players": [
+      "red-sam",
+      "navy-steven",
+      "red-kevin",
+      "red-sean"
+    ],
+    "tags": [
+      "partying"
+    ],
+    "teamTags": []
+  },
+  {
+    "year": 2021,
+    "path": "/history/2021/2021_001__sean__golfing.jpg",
+    "players": [
+      "red-sean"
+    ],
+    "tags": [
+      "golfing"
+    ],
+    "teamTags": []
+  },
+  {
+    "year": 2021,
+    "path": "/history/2021/2021_002__eric_steve_george_jj__team_picture_golfing.jpg",
+    "players": [
+      "navy-eric",
+      "navy-steven",
+      "navy-george",
+      "navy-jj"
+    ],
+    "tags": [
+      "team",
+      "picture",
+      "golfing"
+    ],
+    "teamTags": []
+  },
+  {
+    "year": 2021,
+    "path": "/history/2021/2021_003__george_jj__team_picture_golfing.jpg",
+    "players": [
+      "navy-george",
+      "navy-jj"
+    ],
+    "tags": [
+      "team",
+      "picture",
+      "golfing"
+    ],
+    "teamTags": []
+  },
+  {
+    "year": 2021,
+    "path": "/history/2021/2021_004__eric__golfing.jpg",
+    "players": [
+      "navy-eric"
+    ],
+    "tags": [
+      "golfing"
+    ],
+    "teamTags": []
+  },
+  {
+    "year": 2021,
+    "path": "/history/2021/2021_005__george__golfing.jpg",
+    "players": [
+      "navy-george"
+    ],
+    "tags": [
+      "golfing"
+    ],
+    "teamTags": []
+  },
+  {
+    "year": 2021,
+    "path": "/history/2021/2021_006__steve__golfing.jpg",
+    "players": [
+      "navy-steven"
+    ],
+    "tags": [
+      "golfing"
+    ],
+    "teamTags": []
+  },
+  {
+    "year": 2021,
+    "path": "/history/2021/2021_007__steve__golfing.jpg",
+    "players": [
+      "navy-steven"
+    ],
+    "tags": [
+      "golfing"
+    ],
+    "teamTags": []
+  },
+  {
+    "year": 2021,
+    "path": "/history/2021/2021_008__sean_kevin_sam__hottub.jpg",
+    "players": [
+      "red-sean",
+      "red-kevin",
+      "red-sam"
+    ],
+    "tags": [
+      "hottub"
+    ],
+    "teamTags": []
+  },
+  {
+    "year": 2021,
+    "path": "/history/2021/2021_009__eric_steve_george_sean_kevin_sam__dinner.jpg",
+    "players": [
+      "navy-eric",
+      "navy-steven",
+      "navy-george",
+      "red-sean",
+      "red-kevin",
+      "red-sam"
+    ],
+    "tags": [
+      "dinner"
+    ],
+    "teamTags": []
+  },
+  {
+    "year": 2021,
+    "path": "/history/2021/2021_010__jj_eric__golfing.jpg",
+    "players": [
+      "navy-jj",
+      "navy-eric"
+    ],
+    "tags": [
+      "golfing"
+    ],
+    "teamTags": []
+  },
+  {
+    "year": 2021,
+    "path": "/history/2021/2021_011__sean_dylan_kevin_sam__hottub.jpg",
+    "players": [
+      "red-sean",
+      "red-dylan",
+      "red-kevin",
+      "red-sam"
+    ],
+    "tags": [
+      "hottub"
+    ],
+    "teamTags": []
+  },
+  {
+    "year": 2021,
+    "path": "/history/2021/2021_012__steve__golfing.jpg",
+    "players": [
+      "navy-steven"
+    ],
+    "tags": [
+      "golfing"
+    ],
+    "teamTags": []
+  },
+  {
+    "year": 2021,
+    "path": "/history/2021/2021_013__jj__golfing.jpg",
+    "players": [
+      "navy-jj"
+    ],
+    "tags": [
+      "golfing"
+    ],
+    "teamTags": []
+  },
+  {
+    "year": 2021,
+    "path": "/history/2021/2021_014__jj__golfing.jpg",
+    "players": [
+      "navy-jj"
+    ],
+    "tags": [
+      "golfing"
+    ],
+    "teamTags": []
+  },
+  {
+    "year": 2021,
+    "path": "/history/2021/2021_015__sean__golfing.jpg",
+    "players": [
+      "red-sean"
+    ],
+    "tags": [
+      "golfing"
+    ],
+    "teamTags": []
+  },
+  {
+    "year": 2021,
+    "path": "/history/2021/2021_016__dylan_sam__golfing.jpg",
+    "players": [
+      "red-dylan",
+      "red-sam"
+    ],
+    "tags": [
+      "golfing"
+    ],
+    "teamTags": []
+  },
+  {
+    "year": 2021,
+    "path": "/history/2021/2021_017__dylan_sam__golfing.jpg",
+    "players": [
+      "red-dylan",
+      "red-sam"
+    ],
+    "tags": [
+      "golfing"
+    ],
+    "teamTags": []
+  },
+  {
+    "year": 2021,
+    "path": "/history/2021/2021_018__eric__golfing.jpg",
+    "players": [
+      "navy-eric"
+    ],
+    "tags": [
+      "golfing"
+    ],
+    "teamTags": []
+  },
+  {
+    "year": 2021,
+    "path": "/history/2021/2021_019__sean__golfing.jpg",
+    "players": [
+      "red-sean"
+    ],
+    "tags": [
+      "golfing"
+    ],
+    "teamTags": []
+  },
+  {
+    "year": 2021,
+    "path": "/history/2021/2021_020__george__golfing.jpg",
+    "players": [
+      "navy-george"
+    ],
+    "tags": [
+      "golfing"
+    ],
+    "teamTags": []
+  },
+  {
+    "year": 2021,
+    "path": "/history/2021/2021_021__steve__golfing.jpg",
+    "players": [
+      "navy-steven"
+    ],
+    "tags": [
+      "golfing"
+    ],
+    "teamTags": []
+  },
+  {
+    "year": 2021,
+    "path": "/history/2021/2021_022__steve_george_dylan_kevin__golfing.jpg",
+    "players": [
+      "navy-steven",
+      "navy-george",
+      "red-dylan",
+      "red-kevin"
+    ],
+    "tags": [
+      "golfing"
+    ],
+    "teamTags": []
+  },
+  {
+    "year": 2021,
+    "path": "/history/2021/2021_023__kevin_dylan__shotgun.jpg",
+    "players": [
+      "red-kevin",
+      "red-dylan"
+    ],
+    "tags": [
+      "shotgun"
+    ],
+    "teamTags": []
+  },
+  {
+    "year": 2021,
+    "path": "/history/2021/2021_024__george_jj__practicing.jpg",
+    "players": [
+      "navy-george",
+      "navy-jj"
+    ],
+    "tags": [
+      "practicing"
+    ],
+    "teamTags": []
+  },
+  {
+    "year": 2021,
+    "path": "/history/2021/2021_025__kevin_sam_sean_dylan__team_picture_golfing.jpg",
+    "players": [
+      "red-kevin",
+      "red-sam",
+      "red-sean",
+      "red-dylan"
+    ],
+    "tags": [
+      "team",
+      "picture",
+      "golfing"
+    ],
+    "teamTags": []
+  },
+  {
+    "year": 2021,
+    "path": "/history/2021/2021_026__steve_eric_sam_sean_george__practicing.jpg",
+    "players": [
+      "navy-steven",
+      "navy-eric",
+      "red-sam",
+      "red-sean",
+      "navy-george"
+    ],
+    "tags": [
+      "practicing"
+    ],
+    "teamTags": []
+  },
+  {
+    "year": 2021,
+    "path": "/history/2021/2021_027__george__golfing.jpg",
+    "players": [
+      "navy-george"
+    ],
+    "tags": [
+      "golfing"
+    ],
+    "teamTags": []
+  },
+  {
+    "year": 2021,
+    "path": "/history/2021/2021_028__dylan__golfing.jpg",
+    "players": [
+      "red-dylan"
+    ],
+    "tags": [
+      "golfing"
+    ],
+    "teamTags": []
+  },
+  {
+    "year": 2021,
+    "path": "/history/2021/2021_029__kevin__golfing.jpg",
+    "players": [
+      "red-kevin"
+    ],
+    "tags": [
+      "golfing"
+    ],
+    "teamTags": []
+  },
+  {
+    "year": 2021,
+    "path": "/history/2021/2021_030__george_kevin__golfing.jpg",
+    "players": [
+      "navy-george",
+      "red-kevin"
+    ],
+    "tags": [
+      "golfing"
+    ],
+    "teamTags": []
+  },
+  {
+    "year": 2021,
+    "path": "/history/2021/2021_031__sean_steve_jj_sam_george__hanging.jpg",
+    "players": [
+      "red-sean",
+      "navy-steven",
+      "navy-jj",
+      "red-sam",
+      "navy-george"
+    ],
+    "tags": [
+      "hanging"
+    ],
+    "teamTags": []
+  },
+  {
+    "year": 2021,
+    "path": "/history/2021/2021_032__steve__peopleschamp.png",
+    "players": [
+      "navy-steven"
+    ],
+    "tags": [
+      "peopleschamp"
+    ],
+    "teamTags": []
+  },
+  {
+    "year": 2021,
+    "path": "/history/2021/2021_033__steve_jj__celebrating.png",
+    "players": [
+      "navy-steven",
+      "navy-jj"
+    ],
+    "tags": [
+      "celebrating"
+    ],
+    "teamTags": []
+  },
+  {
+    "year": 2021,
+    "path": "/history/2021/2021_034__sam__golfing.png",
+    "players": [
+      "red-sam"
+    ],
+    "tags": [
+      "golfing"
+    ],
+    "teamTags": []
+  },
+  {
+    "year": 2021,
+    "path": "/history/2021/2021_035__jj__golfing.png",
+    "players": [
+      "navy-jj"
+    ],
+    "tags": [
+      "golfing"
+    ],
+    "teamTags": []
+  },
+  {
+    "year": 2021,
+    "path": "/history/2021/2021_036__jj__sleeping.jpg",
+    "players": [
+      "navy-jj"
+    ],
+    "tags": [
+      "sleeping"
+    ],
+    "teamTags": []
+  },
+  {
+    "year": 2022,
+    "path": "/history/2022/2022_001__jj_kevin__airbnb.jpg",
+    "players": [
+      "navy-jj",
+      "red-kevin"
+    ],
+    "tags": [
+      "airbnb"
+    ],
+    "teamTags": []
+  },
+  {
+    "year": 2022,
+    "path": "/history/2022/2022_002__sam_sean__golf_picture.jpg",
+    "players": [
+      "red-sam",
+      "red-sean"
+    ],
+    "tags": [
+      "golf",
+      "picture"
+    ],
+    "teamTags": []
+  },
+  {
+    "year": 2022,
+    "path": "/history/2022/2022_003__eric_golf_swing.jpg",
+    "players": [
+      "navy-eric"
+    ],
+    "tags": [],
+    "teamTags": []
+  },
+  {
+    "year": 2022,
+    "path": "/history/2022/2022_004__sean_golf_swing.jpg",
+    "players": [
+      "red-sean"
+    ],
+    "tags": [],
+    "teamTags": []
+  },
+  {
+    "year": 2022,
+    "path": "/history/2022/2022_005__sam_sean_george_eric__golf_group_picture.jpg",
+    "players": [
+      "red-sam",
+      "red-sean",
+      "navy-george",
+      "navy-eric"
+    ],
+    "tags": [
+      "golf",
+      "group",
+      "picture"
+    ],
+    "teamTags": []
+  },
+  {
+    "year": 2022,
+    "path": "/history/2022/2022_006__sam_jj__golf_picture.jpg",
+    "players": [
+      "red-sam",
+      "navy-jj"
+    ],
+    "tags": [
+      "golf",
+      "picture"
+    ],
+    "teamTags": []
+  },
+  {
+    "year": 2022,
+    "path": "/history/2022/2022_007__steven_dylan_george_eric_sean__fireplace.jpg",
+    "players": [
+      "navy-steven",
+      "red-dylan",
+      "navy-george",
+      "navy-eric",
+      "red-sean"
+    ],
+    "tags": [
+      "fireplace"
+    ],
+    "teamTags": []
+  },
+  {
+    "year": 2022,
+    "path": "/history/2022/2022_008__steve__putting.jpg",
+    "players": [
+      "navy-steven"
+    ],
+    "tags": [
+      "putting"
+    ],
+    "teamTags": []
+  },
+  {
+    "year": 2022,
+    "path": "/history/2022/2022_009__steve_sean__golfing.jpg",
+    "players": [
+      "navy-steven",
+      "red-sean"
+    ],
+    "tags": [
+      "golfing"
+    ],
+    "teamTags": []
+  },
+  {
+    "year": 2022,
+    "path": "/history/2022/2022_010__scenic.jpg",
+    "players": [],
+    "tags": [],
+    "teamTags": []
+  },
+  {
+    "year": 2022,
+    "path": "/history/2022/2022_011__george_sam_steve__airbnb.jpg",
+    "players": [
+      "navy-george",
+      "red-sam",
+      "navy-steven"
+    ],
+    "tags": [
+      "airbnb"
+    ],
+    "teamTags": []
+  },
+  {
+    "year": 2022,
+    "path": "/history/2022/2022_012__kevin_sean__beerpong.jpg",
+    "players": [
+      "red-kevin",
+      "red-sean"
+    ],
+    "tags": [
+      "beerpong"
+    ],
+    "teamTags": []
+  },
+  {
+    "year": 2022,
+    "path": "/history/2022/2022_013__george_steve_eric_jj__group_party_picture.jpg",
+    "players": [
+      "navy-george",
+      "navy-steven",
+      "navy-eric",
+      "navy-jj"
+    ],
+    "tags": [
+      "group",
+      "party",
+      "picture"
+    ],
+    "teamTags": []
+  },
+  {
+    "year": 2022,
+    "path": "/history/2022/2022_014__sam_kevin_dylan_sean__group_party_picture.jpg",
+    "players": [
+      "red-sam",
+      "red-kevin",
+      "red-dylan",
+      "red-sean"
+    ],
+    "tags": [
+      "group",
+      "party",
+      "picture"
+    ],
+    "teamTags": []
+  },
+  {
+    "year": 2022,
+    "path": "/history/2022/2022_015__sean_sam_kevin_dylan_george_steve_eric_jj__group_party_picture.jpg",
+    "players": [
+      "red-sean",
+      "red-sam",
+      "red-kevin",
+      "red-dylan",
+      "navy-george",
+      "navy-steven",
+      "navy-eric",
+      "navy-jj"
+    ],
+    "tags": [
+      "group",
+      "party",
+      "picture"
+    ],
+    "teamTags": []
+  },
+  {
+    "year": 2022,
+    "path": "/history/2022/2022_016__sean_sam_kevin_dylan_george_steve_eric_jj__group_fireplace_picture.jpg",
+    "players": [
+      "red-sean",
+      "red-sam",
+      "red-kevin",
+      "red-dylan",
+      "navy-george",
+      "navy-steven",
+      "navy-eric",
+      "navy-jj"
+    ],
+    "tags": [
+      "group",
+      "fireplace",
+      "picture"
+    ],
+    "teamTags": []
+  },
+  {
+    "year": 2022,
+    "path": "/history/2022/2022_017__sean_sam_kevin_dylan_george_steve_eric_jj__group_golf_picture.jpg",
+    "players": [
+      "red-sean",
+      "red-sam",
+      "red-kevin",
+      "red-dylan",
+      "navy-george",
+      "navy-steven",
+      "navy-eric",
+      "navy-jj"
+    ],
+    "tags": [
+      "group",
+      "golf",
+      "picture"
+    ],
+    "teamTags": []
+  },
+  {
+    "year": 2022,
+    "path": "/history/2022/2022_017__sean_sam_kevin_dylan_george_steve_eric_jj__group_lunch_picture.jpg",
+    "players": [
+      "red-sean",
+      "red-sam",
+      "red-kevin",
+      "red-dylan",
+      "navy-george",
+      "navy-steven",
+      "navy-eric",
+      "navy-jj"
+    ],
+    "tags": [
+      "group",
+      "lunch",
+      "picture"
+    ],
+    "teamTags": []
+  },
+  {
+    "year": 2022,
+    "path": "/history/2022/2022_018__george_steve_eric_jj__group_golf_picture.jpg",
+    "players": [
+      "navy-george",
+      "navy-steven",
+      "navy-eric",
+      "navy-jj"
+    ],
+    "tags": [
+      "group",
+      "golf",
+      "picture"
+    ],
+    "teamTags": []
+  },
+  {
+    "year": 2022,
+    "path": "/history/2022/2022_019__sam_kevin_dylan_sean__group_golf_picture.jpg",
+    "players": [
+      "red-sam",
+      "red-kevin",
+      "red-dylan",
+      "red-sean"
+    ],
+    "tags": [
+      "group",
+      "golf",
+      "picture"
+    ],
+    "teamTags": []
+  },
+  {
+    "year": 2022,
+    "path": "/history/2022/2022_020__sam___golf_picture.jpg",
+    "players": [
+      "red-sam"
+    ],
+    "tags": [
+      "golf",
+      "picture"
+    ],
+    "teamTags": []
+  },
+  {
+    "year": 2022,
+    "path": "/history/2022/2022_021__sam___golf_picture.jpg",
+    "players": [
+      "red-sam"
+    ],
+    "tags": [
+      "golf",
+      "picture"
+    ],
+    "teamTags": []
+  },
+  {
+    "year": 2022,
+    "path": "/history/2022/2022_022__sam_sean_eric___golf_picture.jpg",
+    "players": [
+      "red-sam",
+      "red-sean",
+      "navy-eric"
+    ],
+    "tags": [
+      "golf",
+      "picture"
+    ],
+    "teamTags": []
+  },
+  {
+    "year": 2022,
+    "path": "/history/2022/2022_023__jj_eric_george_drinking.jpg",
+    "players": [
+      "navy-jj",
+      "navy-eric",
+      "navy-george"
+    ],
+    "tags": [],
+    "teamTags": []
+  },
+  {
+    "year": 2025,
+    "path": "/history/2025/2025_001__george__golfing.jpg",
+    "players": [
+      "navy-george"
+    ],
+    "tags": [
+      "golfing"
+    ],
+    "teamTags": []
+  },
+  {
+    "year": 2025,
+    "path": "/history/2025/2025_002__bear__wildlife.jpg",
+    "players": [],
+    "tags": [
+      "wildlife"
+    ],
+    "teamTags": []
+  },
+  {
+    "year": 2025,
+    "path": "/history/2025/2025_003__dylan__golfing.jpg",
+    "players": [
+      "red-dylan"
+    ],
+    "tags": [
+      "golfing"
+    ],
+    "teamTags": []
+  },
+  {
+    "year": 2025,
+    "path": "/history/2025/2025_004__george__golfing.jpg",
+    "players": [
+      "navy-george"
+    ],
+    "tags": [
+      "golfing"
+    ],
+    "teamTags": []
+  },
+  {
+    "year": 2025,
+    "path": "/history/2025/2025_005__jj__golfing.jpg",
+    "players": [
+      "navy-jj"
+    ],
+    "tags": [
+      "golfing"
+    ],
+    "teamTags": []
+  },
+  {
+    "year": 2025,
+    "path": "/history/2025/2025_006__jj__golfing.jpg",
+    "players": [
+      "navy-jj"
+    ],
+    "tags": [
+      "golfing"
+    ],
+    "teamTags": []
+  },
+  {
+    "year": 2025,
+    "path": "/history/2025/2025_007__jj_sam__embrace.jpg",
+    "players": [
+      "navy-jj",
+      "red-sam"
+    ],
+    "tags": [
+      "embrace"
+    ],
+    "teamTags": []
+  },
+  {
+    "year": 2025,
+    "path": "/history/2025/2025_008__sam_dylan_george_jj__embrace.jpg",
+    "players": [
+      "red-sam",
+      "red-dylan",
+      "navy-george",
+      "navy-jj"
+    ],
+    "tags": [
+      "embrace"
+    ],
+    "teamTags": []
+  },
+  {
+    "year": 2025,
+    "path": "/history/2025/2025_009__sam_sean_dylan_kevin__teamred__embrace.jpg",
+    "players": [
+      "red-sam",
+      "red-sean",
+      "red-dylan",
+      "red-kevin"
+    ],
+    "tags": [
+      "teamred",
+      "embrace"
+    ],
+    "teamTags": []
+  },
+  {
+    "year": 2025,
+    "path": "/history/2025/2025_010__sam_kevin_sean__beer.jpg",
+    "players": [
+      "red-sam",
+      "red-kevin",
+      "red-sean"
+    ],
+    "tags": [
+      "beer"
+    ],
+    "teamTags": []
+  },
+  {
+    "year": 2025,
+    "path": "/history/2025/2025_011__sean_sam_dylan_kevin_steve_jj_eric_george__hangout.jpg",
+    "players": [
+      "red-sean",
+      "red-sam",
+      "red-dylan",
+      "red-kevin",
+      "navy-steven",
+      "navy-jj",
+      "navy-eric",
+      "navy-george"
+    ],
+    "tags": [
+      "hangout"
+    ],
+    "teamTags": []
+  },
+  {
+    "year": 2025,
+    "path": "/history/2025/2025_012__jj__golfing.jpg",
+    "players": [
+      "navy-jj"
+    ],
+    "tags": [
+      "golfing"
+    ],
+    "teamTags": []
+  },
+  {
+    "year": 2025,
+    "path": "/history/2025/2025_013__george_sam__peoples_champ.jpg",
+    "players": [
+      "navy-george",
+      "red-sam"
+    ],
+    "tags": [
+      "peoples",
+      "champ"
+    ],
+    "teamTags": []
+  },
+  {
+    "year": 2025,
+    "path": "/history/2025/2025_014__steven_jj_eric_george__party_group_picture.jpg",
+    "players": [
+      "navy-steven",
+      "navy-jj",
+      "navy-eric",
+      "navy-george"
+    ],
+    "tags": [
+      "party",
+      "group",
+      "picture"
+    ],
+    "teamTags": []
+  },
+  {
+    "year": 2025,
+    "path": "/history/2025/2025_015_sean_sam_kevin_dylan__party_group_picture.jpg",
+    "players": [],
+    "tags": [],
+    "teamTags": []
+  },
+  {
+    "year": 2025,
+    "path": "/history/2025/2025_016__sean_sam_dylan_kevin_steve_jj_eric_george__first_tee_group_picture.jpg",
+    "players": [
+      "red-sean",
+      "red-sam",
+      "red-dylan",
+      "red-kevin",
+      "navy-steven",
+      "navy-jj",
+      "navy-eric",
+      "navy-george"
+    ],
+    "tags": [
+      "first",
+      "tee",
+      "group",
+      "picture"
+    ],
+    "teamTags": []
+  },
+  {
+    "year": 2025,
+    "path": "/history/2025/2025_017__sean_sam_dylan_kevin_steve_jj_eric_george__party_group_picture.jpg",
+    "players": [
+      "red-sean",
+      "red-sam",
+      "red-dylan",
+      "red-kevin",
+      "navy-steven",
+      "navy-jj",
+      "navy-eric",
+      "navy-george"
+    ],
+    "tags": [
+      "party",
+      "group",
+      "picture"
+    ],
+    "teamTags": []
+  },
+  {
+    "year": 2025,
+    "path": "/history/2025/2025_018__sam_sean_dylan_kevin__teamred__first_tee_team_picture.jpg",
+    "players": [
+      "red-sam",
+      "red-sean",
+      "red-dylan",
+      "red-kevin"
+    ],
+    "tags": [
+      "teamred",
+      "first",
+      "tee",
+      "team",
+      "picture"
+    ],
+    "teamTags": []
+  },
+  {
+    "year": 2025,
+    "path": "/history/2025/2025_019__steven_jj_eric_george__first_tee_group_picture.jpg",
+    "players": [
+      "navy-steven",
+      "navy-jj",
+      "navy-eric",
+      "navy-george"
+    ],
+    "tags": [
+      "first",
+      "tee",
+      "group",
+      "picture"
+    ],
+    "teamTags": []
+  },
+  {
+    "year": 2025,
+    "path": "/history/2025/2025_020__jj_sam__shotgun.jpg",
+    "players": [
+      "navy-jj",
+      "red-sam"
+    ],
+    "tags": [
+      "shotgun"
+    ],
+    "teamTags": []
+  }
+]

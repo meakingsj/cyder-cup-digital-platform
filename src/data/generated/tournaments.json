@@ -16,7 +16,12 @@
     "points_to_win": 15.5,
     "winning captain": "Eric Bleim",
     "mvp_player_id": null,
-    "summary": "The 2019 Cyder Cup was won by Team Navy 13.5 - 1.5."
+    "summary": "The 2019 Cyder Cup was won by Team Navy 13.5 - 1.5.",
+    "full_write_up": null,
+    "hero_image_key": null,
+    "gallery_folder": "history/2019",
+    "format_label": null,
+    "content_status": "Published"
   },
   {
     "tournament_id": "cyder-cup-2020",
@@ -35,7 +40,12 @@
     "points_to_win": 15.5,
     "winning captain": "Kevin Catliff",
     "mvp_player_id": null,
-    "summary": "The 2020 Cyder Cup was won by Team Red 10 - 5."
+    "summary": "The 2020 Cyder Cup was won by Team Red 10 - 5.",
+    "full_write_up": null,
+    "hero_image_key": null,
+    "gallery_folder": "history/2020",
+    "format_label": null,
+    "content_status": "Published"
   },
   {
     "tournament_id": "cyder-cup-2021",
@@ -54,13 +64,18 @@
     "points_to_win": 15.5,
     "winning captain": "Dylan Bradley",
     "mvp_player_id": null,
-    "summary": "The 2021 Cyder Cup was won by Team Red 9 - 6."
+    "summary": "The 2021 Cyder Cup was won by Team Red 9 - 6.",
+    "full_write_up": null,
+    "hero_image_key": null,
+    "gallery_folder": "history/2021",
+    "format_label": null,
+    "content_status": "Published"
   },
   {
     "tournament_id": "cyder-cup-2022",
     "year": 2022,
     "name": "Cyder Cup 2022",
-    "venue": "Nickolas North Golf Course | Big Sky Golf Club | Sunstone Golf Club",
+    "venue": "Nicklaus North Golf Course | Big Sky Golf Club | Sunstone Golf Club",
     "city": "Pemberton",
     "region": "British Columbia",
     "country": "Canada",
@@ -73,7 +88,12 @@
     "points_to_win": 15.5,
     "winning captain": "JJ Meakings",
     "mvp_player_id": null,
-    "summary": "The 2022 Cyder Cup was won by Team Navy 8 - 7."
+    "summary": "The 2022 Cyder Cup was won by Team Navy 8 - 7.",
+    "full_write_up": null,
+    "hero_image_key": null,
+    "gallery_folder": "history/2022",
+    "format_label": null,
+    "content_status": "Published"
   },
   {
     "tournament_id": "cyder-cup-2025",
@@ -92,7 +112,12 @@
     "points_to_win": 15.5,
     "winning captain": "Eric Bleim",
     "mvp_player_id": null,
-    "summary": "The 2025 Cyder Cup was won by Team Navy 9.5 - 5.5."
+    "summary": "The 2025 Cyder Cup was won by Team Navy 9.5 - 5.5.",
+    "full_write_up": null,
+    "hero_image_key": null,
+    "gallery_folder": "history/2025",
+    "format_label": "Team Vs. Team 4-man Scramble",
+    "content_status": "Published"
   },
   {
     "tournament_id": "cyder-cup-2026",
@@ -111,6 +136,11 @@
     "points_to_win": 15.5,
     "winning captain": null,
     "mvp_player_id": null,
-    "summary": "The 2026 Cyder Cup is the current tournament."
+    "summary": "The 2026 Cyder Cup is the current tournament.",
+    "full_write_up": null,
+    "hero_image_key": null,
+    "gallery_folder": "history/2026",
+    "format_label": "Team Vs. Team 4-man Scramble",
+    "content_status": "Draft"
   }
 ]
