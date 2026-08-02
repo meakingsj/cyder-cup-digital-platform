@@ -1070,19 +1070,20 @@ function PartnerChemistry({
               />
             </div>
 
-            <p className="mt-8 font-serif text-4xl leading-tight">
-              {player.firstName}
-              <span className="mx-3 text-amber-300">
-                &
-              </span>
-              {bestPartner.partnerName ??
-                bestPartner.partnerId}
-            </p>
+<p className="mt-8 font-serif text-4xl leading-tight">
+  {player.displayName}
+  <span className="mx-3 text-amber-300">
+    &
+  </span>
+  {findPlayer(bestPartner.partnerId)?.displayName ??
+    bestPartner.partnerName ??
+    bestPartner.partnerId}
+</p>
 
-            <p className="mt-4 max-w-xl text-sm leading-7 text-slate-300">
-              The strongest recorded partnership in{" "}
-              {player.firstName}'s Cyder Cup career.
-            </p>
+<p className="mt-4 max-w-xl text-sm leading-7 text-slate-300">
+  The strongest recorded partnership in{" "}
+  {player.displayName}'s Cyder Cup career.
+</p>
 
             <div className="mt-8 grid grid-cols-2 gap-px overflow-hidden bg-white/10 sm:grid-cols-4">
               <CompactMetric
@@ -1131,10 +1132,11 @@ function PartnerChemistry({
                       Most frequent partner
                     </p>
 
-                    <p className="mt-2 font-serif text-2xl">
-                      {mostFrequentPartner.partnerName ??
-                        mostFrequentPartner.partnerId}
-                    </p>
+<p className="mt-2 font-serif text-2xl">
+  {findPlayer(mostFrequentPartner.partnerId)?.displayName ??
+    mostFrequentPartner.partnerName ??
+    mostFrequentPartner.partnerId}
+</p>
                   </div>
                 </div>
 
