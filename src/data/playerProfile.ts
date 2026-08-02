@@ -84,13 +84,13 @@ export function getPlayerProfile(
   const gallery =
     getPlayerGallery(playerId);
 
-  const appearanceYears = Array.from(
-    new Set(
-      gallery.map(
-        (image) => image.year,
-      ),
-    ),
-  ).sort((a, b) => b - a);
+const appearanceYears = [
+  2019,
+  2020,
+  2021,
+  2022,
+  2025,
+];
 
   const stats =
     getPlayerCareerStats(playerId);
